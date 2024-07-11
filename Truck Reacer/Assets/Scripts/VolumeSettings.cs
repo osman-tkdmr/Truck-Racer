@@ -11,7 +11,7 @@ public class VolumeSettings : MonoBehaviour
     public void setMusicVolume()
     {
         float Musicvolume = musicSlider.value;
-        myMixer.SetFloat("music", Musicvolume);
+        myMixer.SetFloat("Music", Musicvolume);
     }
     public void setSFXVolume()
     {

@@ -1266,7 +1266,7 @@ Camera:
   m_GameObject: {fileID: 963194225}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 2
   m_BackGroundColor: {r: 0.045567773, g: 0.754717, b: 0.55105764, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -1307,14 +1307,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.09229593, y: 0.7010574, z: -0.09229593, w: 0.7010574}
-  m_LocalPosition: {x: -35.81, y: 10.22, z: -0}
+  m_LocalRotation: {x: 0.10451704, y: 0.69933987, z: -0.10451704, w: 0.69933987}
+  m_LocalPosition: {x: -36.6, y: 8.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 15, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 17, y: 90, z: 0}
 --- !u!114 &963194229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2700,7 +2700,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicSource: {fileID: 924701011}
   SFXSource: {fileID: 512192091}
-  Background: {fileID: 8300000, guid: 1143fb91df4dc734c81c6d1966cae780, type: 3}
+  Background: {fileID: 8300000, guid: 23b29b11e93a2134583281e6ec1a443c, type: 3}
   SFXClip: {fileID: 8300000, guid: 8e9508c67d0bfb44b8bd84105b7c8429, type: 3}
   StartEngin: {fileID: 8300000, guid: f90d2412cefca404cba80202baddb8d1, type: 3}
   StopEngin: {fileID: 8300000, guid: f2c2effd47aa02342acdf226501387e8, type: 3}
@@ -7487,7 +7487,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3829518435653621608}
-  m_LocalRotation: {x: -0.121941365, y: 0.696513, z: -0.121941194, w: 0.696513}
+  m_LocalRotation: {x: -0.102398045, y: 0.58488417, z: -0.102397904, w: 0.79808503}
   m_LocalPosition: {x: 0.71007603, y: 2.4412773, z: 1.7302284}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
